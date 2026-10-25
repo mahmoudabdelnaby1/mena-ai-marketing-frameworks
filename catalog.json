@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "evidence-led-ai-marketing-content",
+    "n": "01",
+    "title_en": "Evidence-led AI marketing content",
+    "title_ar": "محتوى تسويقي مدعوم بالأدلة",
+    "summary_en": "Turn an AI-assisted draft into a useful, reviewable asset by tracing factual claims to evidence, separating fact from interpretation, and assigning a human approval owner.",
+    "summary_ar": "حوّل المسودة المدعومة بالذكاء الاصطناعي إلى مادة نافعة قابلة للمراجعة: اربط الادعاءات الواقعية بأدلتها، وافصل الحقائق عن التفسير، وحدد المسؤول عن الاعتماد البشري.",
+    "area_en": "Content integrity",
+    "area_ar": "موثوقية المحتوى"
+  },
+  {
+    "slug": "arabic-ai-creative-localization-qa",
+    "n": "02",
+    "title_en": "Arabic AI creative localization & QA",
+    "title_ar": "توطين الإبداع العربي المدعوم بالذكاء الاصطناعي ومراجعته",
+    "summary_en": "Coordinate Arabic copy, dialect, visual generation, and asset review without treating the region as one audience or trusting generated Arabic text inside artwork.",
+    "summary_ar": "نسّق بين النص العربي واللهجة والتوليد البصري ومراجعة المواد دون اعتبار المنطقة جمهورًا واحدًا أو الوثوق بالنص العربي الذي ترسمه أداة الصور.",
+    "area_en": "Arabic creative systems",
+    "area_ar": "أنظمة الإبداع العربي"
+  },
+  {
+    "slug": "synthetic-media-and-creator-rights",
+    "n": "03",
+    "title_en": "Creator, UGC & synthetic media rights",
+    "title_ar": "حقوق محتوى المؤثرين وUGC والوسائط الاصطناعية",
+    "summary_en": "Keep creator and AI-assisted assets traceable: document permissions, disclose material relationships where required, preserve edits, and review the final placement.",
+    "summary_ar": "اجعل مواد المؤثرين والمحتوى المدعوم بالذكاء الاصطناعي قابلة للتتبع: وثّق الأذونات، وأفصح عن العلاقات المؤثرة عند اللزوم، واحفظ التعديلات، وراجع موضع النشر النهائي.",
+    "area_en": "Creator & synthetic media governance",
+    "area_ar": "حوكمة المؤثرين والوسائط الاصطناعية"
+  },
+  {
+    "slug": "guardrailed-customer-conversation-ai",
+    "n": "04",
+    "title_en": "Guardrailed customer conversation AI",
+    "title_ar": "حوكمة الذكاء الاصطناعي في محادثات العملاء",
+    "summary_en": "Design customer-facing assistants around approved knowledge, limited actions, safe failure, privacy, and a visible route to a human.",
+    "summary_ar": "صمّم مساعدات خدمة العملاء حول معرفة معتمدة وصلاحيات محدودة وفشل آمن وخصوصية ومسار واضح للوصول إلى موظف بشري.",
+    "area_en": "Customer conversation systems",
+    "area_ar": "أنظمة محادثات العملاء"
+  },
+  {
+    "slug": "privacy-aware-marketing-ai-data",
+    "n": "05",
+    "title_en": "Privacy-aware marketing AI & customer data",
+    "title_ar": "الذكاء الاصطناعي التسويقي وبيانات العملاء مع مراعاة الخصوصية",
+    "summary_en": "Reduce exposure before using customer or CRM data with AI: classify, minimize, control access, document purpose, and verify vendor handling.",
+    "summary_ar": "قلل تعرض بيانات العملاء أو CRM قبل استخدامها مع الذكاء الاصطناعي: صنف البيانات وقللها واضبط الوصول ووثق الغرض وتحقق من معالجة المورّد.",
+    "area_en": "Privacy-aware data operations",
+    "area_ar": "عمليات بيانات تراعي الخصوصية"
+  },
+  {
+    "slug": "ai-marketing-decision-and-measurement-governance",
+    "n": "06",
+    "title_en": "AI-assisted marketing decisions & measurement",
+    "title_ar": "القرارات التسويقية المدعومة بالذكاء الاصطناعي وقياسها",
+    "summary_en": "Keep campaign automation accountable by separating platform-reported signals from business outcomes, documenting decisions, and setting human review and rollback rules.",
+    "summary_ar": "اجعل أتمتة الحملات خاضعة للمساءلة: افصل إشارات المنصة عن نتائج الأعمال، ووثق القرارات، وحدد قواعد المراجعة البشرية والتراجع.",
+    "area_en": "Marketing decision systems",
+    "area_ar": "أنظمة القرار التسويقي"
+  }
+]
