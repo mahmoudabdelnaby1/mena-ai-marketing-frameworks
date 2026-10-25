@@ -12,6 +12,14 @@ A practical library of **92 independent, task-specific frameworks** across nine 
 - [Arabic overview](README.ar.md)
 - [Scope and editorial decisions](SCOPE.md)
 
+## Project wiki
+
+- [Wiki home](https://github.com/mahmoudabdelnaby1/mena-ai-marketing-frameworks/wiki)
+- [Start here: using the framework library](https://github.com/mahmoudabdelnaby1/mena-ai-marketing-frameworks/wiki/Start-Here)
+- [Browse frameworks by discipline](https://github.com/mahmoudabdelnaby1/mena-ai-marketing-frameworks/wiki/Browse-by-Discipline)
+- [ابدأ من هنا](https://github.com/mahmoudabdelnaby1/mena-ai-marketing-frameworks/wiki/%D8%A7%D8%A8%D8%AF%D8%A3-%D9%85%D9%86-%D9%87%D9%86%D8%A7)
+- [التصفح حسب التخصص](https://github.com/mahmoudabdelnaby1/mena-ai-marketing-frameworks/wiki/%D8%A7%D9%84%D8%AA%D8%B5%D9%81%D8%AD-%D8%AD%D8%B3%D8%A8-%D8%A7%D9%84%D8%AA%D8%AE%D8%B5%D8%B5)
+
 The nine disciplines are SEO (12 frameworks), PPC (10), social media (10), content (10), email (10), influencer marketing (10), video advertising (10), conversion optimization (10), and marketing automation (10). The catalog is the source of truth for the published inventory.
 
 ## How to use a framework
