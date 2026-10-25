@@ -11,6 +11,8 @@ A bilingual, practical framework library for teams using AI across digital marke
 
 ## The six frameworks
 
+These six cross-functional frameworks remain the core collection. A separate [Digital Marketing Task Frameworks library](task-frameworks/README.md) contains 92 specialized working assets across nine disciplines; it complements the six core frameworks rather than replacing them.
+
 | # | Framework | Use it for |
 |---|---|---|
 | 01 | [Evidence-led AI marketing content](frameworks/evidence-led-ai-marketing-content.en.md) | Trace factual and performance claims to evidence before publishing. |

@@ -1,0 +1,31 @@
+# Evidence Register & Source Boundaries — `FW-040` (`AMP-183`)
+
+- **Framework Title (EN)**: Saudi Intra-Kingdom Regional Persona & Sector Differentiation Aid (Riyadh vs. Jeddah vs. Eastern Province)
+- **عنوان الأصل (AR)**: أداة تفصيل الخطاب التسويقي وشخصية المشتري داخل المملكة (الرياض مقابل جدة مقابل المنطقة الشرقية)
+- **Channel**: Content Marketing
+- **Last Reviewed Date**: `2026-10-25`
+- **Verification Gate Status**: `READY_FOR_REVIEW`
+
+## 1. Problem & Empirical Evidence (What Proves the Failure Mechanism in Egypt & GCC)
+
+| Source ID | Title & Direct Link | Publisher | Published | Accessed | Type & Confidence | What This Source Supports | Support Boundary |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| `SRC-061` | [The Arabic SEO in Saudi Arabia Mistakes Costing Riyadh Brands Rankings](https://digistreetmedia.com/blog/the-arabic-seo-in-saudi-arabia-mistakes-costing-riyadh-brands-rankings/) | DigiStreet Media | `2026-09-29` | `2026-10-25` | `PRACTITIONER_GUIDE` (`REPEATED_SIGNAL`) | Identifies 5 recurring KSA SEO failures: treating Arabic as translation, running one strategy across Arabic/English, broken hreflang/RTL mobile UX, ignoring Vision 2030 sector context, and chasing non-local backlinks while treating Riyadh, Jeddah, and Dammam as homogeneous. | Saudi Arabia B2B and B2C SEO. |
+
+## 2. Official Platform Capability, Regulatory & Advice Evidence
+
+| Source ID | Title & Direct Link | Publisher | Published | Accessed | Status / Confidence | Official Capability or Rule Verified | Fallback / Operational Boundary |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| `SRC-061` | [The Arabic SEO in Saudi Arabia Mistakes Costing Riyadh Brands Rankings](https://digistreetmedia.com/blog/the-arabic-seo-in-saudi-arabia-mistakes-costing-riyadh-brands-rankings/) | DigiStreet Media | `2026-09-29` | `2026-10-25` | `OFFICIAL_CAPABILITY_CHECK` (`supported`) | DigiStreet Media's 2026 KSA study documents that homogenizing Riyadh, Jeddah, and Dammam under a single generic persona causes severe relevance and conversion loss. | Fallback: Segment KSA content and ad sets into Central (Riyadh), Western (Jeddah/Makkah), and Eastern (Dammam/Khobar/Jubail) tracks whenever budget/catalog supports it. |
+
+## 3. Counterevidence, Exceptions & When This Pattern Does NOT Apply
+
+- In strictly single-language English B2B niches or fully prepaid digital-product flows, the severity of this Content Marketing mismatch is lower provided manual QA is still performed.
+- ** Operational Boundary**: Do not exaggerate caricatural regional stereotypes or heavy archaic tribal slang—differentiate through sector priorities, climate/lifestyle context, and subtle, respectful local warmth. / لا تبالغ في القوالب النمطية أو المفردات المحلية المفرطة؛ اجعل التخصيص مرتكزاً على أولويات القطاعات الاقتصادية والمناخ وأسلوب الحياة بلمسة محلية راقية.
+
+## 4. Claims Remaining Uncertain & Update Triggers
+
+- **Verification Requirement**: Verify live store/account configuration and current 2026/2027 platform UI settings for Content Marketing before deploying changes.
+- **Verification Requirement**: Confirm current statutory penalty thresholds and licensing rules with qualified local counsel in KSA, UAE, or Egypt.
+- **No Guaranteed Outcomes**: Per Agent 2 v1.2 boundaries, this asset defines operational controls and testable measurement hypotheses; it does not promise guaranteed rankings, virality, or fixed ROAS lift.
+- **Update Triggers**: Re-verify this framework whenever platform UI/API schemas change, prior to major Hijri/seasonal peaks (Ramadan/White Friday), or within 90 days of `2026-10-25`.

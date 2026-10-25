@@ -4,7 +4,7 @@
 
 The supplied runs contain multiple overlapping framework builds, exploratory research, examples, and competing handoff/build reports. The handoff records themselves state that some selections are recommendations rather than authorization and that evidence coverage is incomplete. The portfolio already has specialized playbooks for Arabic copy localization, AEO/GEO review, ad preflight, local SEO, WhatsApp commerce, event measurement, and incrementality. Publishing every draft as a separate item would create duplication and expose unsupported claims.
 
-The six published frameworks below are therefore a curated, non-exhaustive operating collection. They consolidate related drafts while preserving distinct jobs:
+The six frameworks at the repository root are a curated, non-exhaustive cross-functional operating collection. The separate `task-frameworks/` library contains 92 specialized task-level assets across nine disciplines. These two layers serve different jobs and should be linked clearly rather than collapsed into one count. The six core frameworks consolidate related drafts while preserving distinct jobs:
 
 1. Evidence review for factual marketing content.
 2. End-to-end Arabic AI creative localization and QA.
