@@ -12,6 +12,14 @@
 - [النسخة الإنجليزية](README.md)
 - [النطاق والقرارات التحريرية](SCOPE.md)
 
+## ويكي المشروع
+
+- [الصفحة الرئيسية للويكي](https://github.com/mahmoudabdelnaby1/mena-ai-marketing-frameworks/wiki)
+- [ابدأ هنا: استخدام مكتبة الأطر](https://github.com/mahmoudabdelnaby1/mena-ai-marketing-frameworks/wiki/%D8%A7%D8%A8%D8%AF%D8%A3-%D9%85%D9%86-%D9%87%D9%86%D8%A7)
+- [التصفح حسب التخصص](https://github.com/mahmoudabdelnaby1/mena-ai-marketing-frameworks/wiki/%D8%A7%D9%84%D8%AA%D8%B5%D9%81%D8%AD-%D8%AD%D8%B3%D8%A8-%D8%A7%D9%84%D8%AA%D8%AE%D8%B5%D8%B5)
+- [English: Start Here](https://github.com/mahmoudabdelnaby1/mena-ai-marketing-frameworks/wiki/Start-Here)
+- [English: Browse by Discipline](https://github.com/mahmoudabdelnaby1/mena-ai-marketing-frameworks/wiki/Browse-by-Discipline)
+
 تشمل التخصصات التسعة تحسين محركات البحث (12 إطارًا)، والإعلانات المدفوعة، والتواصل الاجتماعي، والمحتوى، والبريد الإلكتروني، والتسويق عبر المؤثرين، وإعلانات الفيديو، وتحسين التحويل، وأتمتة التسويق (10 أطر لكل تخصص من التخصصات الثمانية الأخيرة). الفهرس هو المرجع المعتمد لعدد العناصر المنشورة.
 
 ## طريقة الاستخدام
@@ -19,7 +27,7 @@
 1. اختر الإطار المطابق للمهمة.
 2. أضف سياق العمل والمدخلات المطلوبة فعلًا.
 3. اتبع سير العمل وكيّف المخرجات مع القناة والسوق والجمهور.
-4. تحقق من متطلبات المنصة والسوق المتغيرة بالرجوع إلى مصادر أولية حديثة.
+4. تحقّق من متطلبات المنصة والسوق المتغيرة بالرجوع إلى مصادر أولية حديثة.
 5. اطلب مراجعة مسؤول بشري قبل استخدام المخرجات.
 
 ## الحدود
