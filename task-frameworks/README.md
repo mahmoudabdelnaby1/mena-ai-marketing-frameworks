@@ -1,6 +1,6 @@
 # Digital Marketing Task Frameworks
 
-This is a specialized, task-level companion to the six cross-functional AI marketing frameworks at the repository root. It contains 92 distinct working frameworks across nine disciplines: SEO (12), PPC (10), social media (10), content (10), email (10), influencer (10), video advertising (10), conversion optimization (10), and marketing automation (10).
+The main collection in this repository contains 92 distinct, standalone working frameworks across nine disciplines: SEO (12), PPC (10), social media (10), content (10), email (10), influencer (10), video advertising (10), conversion optimization (10), and marketing automation (10).
 
 ## What the count means
 
